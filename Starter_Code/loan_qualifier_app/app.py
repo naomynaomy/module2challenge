@@ -110,11 +110,8 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
-#csvpath = Path("qualifying_loans_list.csv")
-#with open(csvpath,'w',) as csvfile:
- #   csvwriter = csv.writer(csvpath)
-  #  for bank in bank_filtered_data:
-   #q         csvwriter.writerow()
+    csvpath = Path("qualifying_loans.csv")
+    save_csv = (csvpath, qualifying_loans)
 
 def run():
     """The main function for running the script."""
