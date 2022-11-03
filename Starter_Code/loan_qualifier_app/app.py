@@ -102,6 +102,20 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
     return bank_data_filtered
 
+def save_csv(csvpath, qualifying_loans, header=None):
+    """Saves the CSV file from path provided.
+
+    Args:
+        csvpath (Path): The CSV file path.
+        data (list of lists): A list of the rows of data for the CSV file.
+        header (list): An optional header for the CSV.
+
+    """
+    with open(csvpath, "w", newline="") as csvfile:
+        csvwriter = csv.writer(csvfile, delimiter=',')
+        if header:
+            csvwriter.writerow(header)
+        csvwriter.writerows(qualifying_loans) 
 
 def save_qualifying_loans(qualifying_loans):
     """Saves the qualifying loans to a CSV file.
@@ -115,12 +129,13 @@ def save_qualifying_loans(qualifying_loans):
         save_prompt = questionary.confirm("Would you like to save list as csv?").ask() 
         if save_prompt == True:
             csvpath = questionary.text("Enter a path to save file to (.csv):").ask()
-            return csvpath
-            save_csv = (csvpath, qualifying_loans)
+            save_csv(csvpath, qualifying_loans)
         else:
             print("File not saved.")
     else:
-        print("No qualifying loans were found.")        
+        print("No qualifying loans were found.")  
+
+    
 
 def run():
     """The main function for running the script."""
