@@ -113,8 +113,6 @@ def save_csv(csvpath, qualifying_loans, header=None):
     """
     with open(csvpath, "w", newline="") as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
-        if header:
-            csvwriter.writerow(header)
         csvwriter.writerows(qualifying_loans) 
 
 def save_qualifying_loans(qualifying_loans):
