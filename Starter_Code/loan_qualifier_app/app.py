@@ -116,13 +116,12 @@ def save_csv(csvpath, qualifying_loans, header=None):
         csvwriter.writerows(qualifying_loans) 
 
 def save_qualifying_loans(qualifying_loans):
-    """Saves the qualifying loans to a CSV file.
-
-    Args:
+    """ If there are qualifying loans, function prompts user to save list as csv.
+        User can opt out of saving file.
+        If there are qualifying loans, the user is notified and the program ends.
+        Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
-    # @TODO: Complete the usability dialog for savings the CSV Files.
-    """Saves the qualifying loans to a CSV file."""
     if len(qualifying_loans) > 0: 
         save_prompt = questionary.confirm("Would you like to save list as csv?").ask() 
         if save_prompt == True:
