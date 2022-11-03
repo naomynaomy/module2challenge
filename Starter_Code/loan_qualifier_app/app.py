@@ -107,7 +107,7 @@ def save_csv(csvpath, qualifying_loans, header=None):
 
     Args:
         csvpath (Path): The CSV file path.
-        data (list of lists): A list of the rows of data for the CSV file.
+        qualifying_loans: A list of the rows of qualifying banks/laons for the CSV file.
         header (list): An optional header for the CSV.
 
     """
