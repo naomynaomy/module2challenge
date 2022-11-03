@@ -1,16 +1,16 @@
 ##  Loan Qualifer Calculator
 
-""" This project is to create a calculator that prompts a user for information to determine whether they qualify for a loan given a list with various bank information. Enhanced usability was added by creating a function to allow a user to save a populated list of qualified loans as a csv file; user also has the ability to opt-out of saving the file.
+This project is to create a calculator that prompts a user for information to determine whether they qualify for a loan given a list with various bank information. Enhanced usability was added by creating a function to allow a user to save a populated list of qualified loans as a csv file; user also has the ability to opt-out of saving the file.
 
 ---
 
 ## Technologies
 
-Python
+'''Python
     - questionary
     - csv
     - Path from pathlib
-
+'''
 ---
 
 ## Installation Guide
