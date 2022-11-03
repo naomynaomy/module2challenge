@@ -119,8 +119,7 @@ def save_qualifying_loans(qualifying_loans):
     """ If there are qualifying loans, function prompts user to save list as csv.
         User can opt out of saving file.
         If there are qualifying loans, the user is notified and the program ends.
-        Args:
-        qualifying_loans (list of lists): The qualifying bank loans.
+        Args: qualifying_loans (list of lists): The qualifying bank loans.
     """
     if len(qualifying_loans) > 0: 
         save_prompt = questionary.confirm("Would you like to save list as csv?").ask() 
@@ -131,8 +130,6 @@ def save_qualifying_loans(qualifying_loans):
             print("File not saved.")
     else:
         print("No qualifying loans were found.")  
-
-    
 
 def run():
     """The main function for running the script."""
