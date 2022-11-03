@@ -9,6 +9,7 @@ This program is a calculator that prompts a user for information to determine wh
 
 Python
 
+- fire
 - questionary
 - csv
 - Path from pathlib
