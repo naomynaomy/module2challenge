@@ -36,11 +36,10 @@ If the user qualifies for loan(s), the user will be prompted to save the file as
 ---
 
 ## Contributor
-```
-Naomy Velasco
-Email: velasco.naomy@gmail.com
-https://www.linkedin.com/in/naomyvelasco/
 
-```
+Naomy Velasco
+- velasco.naomy@gmail.com
+- [My LinkedIn](https://www.linkedin.com/in/naomyvelasco/)
+
 ---
 
