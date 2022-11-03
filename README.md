@@ -6,7 +6,7 @@ This program is a calculator that prompts a user for information to determine wh
 
 ## Technologies
 
-
+```
 Python
 
 - fire
@@ -14,6 +14,7 @@ Python
 - csv
 - Path from pathlib
 
+```
 
 ---
 
