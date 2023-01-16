@@ -1,0 +1,975 @@
+   50  $ touch ~/.ssh/config
+   51  $ touch ~/.ssh/config
+   52  $touch ~/.ssh/config
+   53  $ touch ~/.ssh/config
+   54  ~/.ssh/config
+   55  eval "$(ssh-agent –s)"
+   56  eval "$(ssh-agent –s)"
+   57  start-ssh-agent
+   58  eval "$(ssh-agent)"
+   59  sudo -s -H
+   60  udo -s -H
+   61  Sudo -s -H
+   62  exec ssh-agent zsh
+   63  ~/.ssh/config
+   64  $ touch ~/.ssh/config
+   65  rm ~/.ssh/aws.sg.pub
+   66  ssh-add -D
+   67  ssh-add -D
+   68  ls -al ~/.ssh 
+   69  cat ~/.ssh/id_rsa.pub
+   70  cat /Users/USERNAME/.ssh/id_rsa.pub
+   71  find . -name 'id-rsa*' -print
+   72  find . -name 'id-rsa*' -print
+   73  ssh-keygen
+   74  eval "$(ssh-agent –s)"
+   75  ssh-add ~/.ssh/id_rsa
+   76  eval "$(ssh-agent –s)"
+   77  pbcopy < ~/.ssh/id_rsa.pub\n\n
+   78  ssh –T git@github.com
+   79  sudo killall -HUP mDNSResponder
+   80  ssh –T git@github.com
+   81  $ ssh-keygen -t ed25519 -C "your_email@example.com"
+   82  ls –al ~/.ssh
+   83  ls -al ~/.ssh
+   84  pbcopy < ~/.ssh/id_rsa.pub
+   85  ssh –T git@github.com
+   86  $ssh –T git@github.com
+   87  $ ssh -T git@github.com\n# Attempts to ssh to GitHub
+   88  $ ssh -T git@github.com
+   89  $ssh -T git@github.com
+   90  $ssh \-T git@github.com
+   91  ls -al ~/.ssh
+   92  cat ~/.ssh/id_rsa.pub
+   93  ssh –T git@github.com
+   94  sshgit@github.com
+   95  $ssh –T git@github.com
+   96  conda --version
+   97  conda update conda
+   98  conda update anaconda
+   99  conda create -n dev python=3.7 anaconda
+  100  conda activate dev
+  101  conda init zsh
+  102  python -m ipykernel install --user --name dev
+  103  conda install -c conda-forge nodejs
+  104  conda deactivate
+  105  cd Desktop
+  106  print(hello)
+  107  ssh -T git@github.com
+  108  ssh -T git@github.com
+  109  ls –al ~/.ssh
+  110  ssh-keygen –t rsa –b 4096 –C "naomyv03@gmail.com"
+  111  ssh-keygen -t rsa -b 4096 -C "naomyv03@gmail.com"
+  112  eval "$(ssh-agent -S)"
+  113  eval "$(ssh-agent -s)"
+  114  ssh-add ~/.ssh/id_rsa
+  115  pbcopy < ~/.ssh/id_rsa.pub
+  116  ssh -T git@github.com
+  117  cd Desktop
+  118  mkdir test
+  119  touch_sample.txt
+  120  mkdir test
+  121  touch_sample.txt
+  122  cd test
+  123  ls
+  124  cd Desktop
+  125  touch sample.txt
+  126  cd test
+  127  ls
+  128  cd Desktop
+  129  mv sample.txt test
+  130  cd test
+  131  ls
+  132  cd Desktop
+  133  mkdir test
+  134  touch sample.txt
+  135  cd test
+  136  ls
+  137  cd Desktop
+  138  mv sample.txt test
+  139  cd Directory
+  140  cd Desktop
+  141  $cd Desktop
+  142  cd Desktop
+  143  mkmdir test
+  144  mkdir test
+  145  touch sample.txt
+  146  cd test
+  147  ls
+  148  cd Desktop
+  149  ls
+  150  mv sample.txt test
+  151  conda activate dev
+  152  jupyter lab
+  153  conda activate dev
+  154  jupyter lab
+  155  conda deactivate
+  156  conda activate dev
+  157  jupyter lab
+  158  conda deactivate
+  159  pbcopy < ~/.ssh/id_rsa.pub
+  160  conda create -n dev python = 3.7 anaconda
+  161  echo ${SHELL}
+  162  conda init zsh
+  163  conda deactivate
+  164  pwd
+  165  ls
+  166  cd
+  167  cd Desktop
+  168  pwd
+  169  ls
+  170  mkdir FinTech_Workspace
+  171  ls
+  172  cd Fintech
+  173  cd FinTech_Workspace
+  174  ls
+  175  cd ..
+  176  cd ~
+  177  pwd
+  178  cd Desktop
+  179  ls
+  180  cd Fintech_Workspace/
+  181  ls
+  182  cd Python_Project
+  183  conda activate dev
+  184  python --version
+  185  code.
+  186  code .
+  187  code .
+  188  python hello_python.py
+  189  conda deactivate
+  190  code ..
+  191  variable.py
+  192  conda activate dev
+  193  variable.py
+  194  pwd
+  195  ls
+  196  cd Desktop
+  197  ls
+  198  cd FinTech_Workspace
+  199  variable.py
+  200  python variable.py
+  201  python variable.py
+  202  cd Fintech_Workspace
+  203  cd Desktop
+  204  ls
+  205  cd Python_Project
+  206  python variable.py
+  207  ls
+  208  ls ..
+  209  ls..
+  210  ls ..
+  211  ls ..
+  212  cd Desktop
+  213  cd naomyvelasco@Naomys-MacBook-Pro
+  214  cd .. 
+  215  cd ..
+  216  ls
+  217  cd ..
+  218  ls
+  219  Documents
+  220  cd Documents
+  221  ls
+  222  cd Fintech Bootcamp
+  223  cd Fintech_Bootcamp
+  224  Fintech Bootcamp
+  225  cd Fintech Bootcamp
+  226  cd Fintech_Bootcamp
+  227  ls
+  228  Fintech
+  229  cd Fintech
+  230  ls
+  231  cd Fintech_Bootcamp
+  232  ls
+  233  cd Class_One
+  234  ls
+  235  python 01_Hello_World_Variable
+  236  cd 01_Hello_Variable_World
+  237  ls
+  238  cd Unsolved
+  239  ls
+  240  python hello_variable_world.py
+  241  cd ..
+  242  cd..
+  243  cd ..
+  244  ls
+  245  02_Listing_Assets
+  246  cd 02_Listing_Assets
+  247  ls
+  248  cd Unsolved
+  249  ls
+  250  listing_assets.py
+  251  python listing_assets.py
+  252  ls
+  253  cd ..
+  254  ls
+  255  cd ..
+  256  ls
+  257  ls
+  258  cd ..
+  259  ls
+  260  python DictionaryPractice.py
+  261  python DictionaryPractice.py
+  262  python DictionaryPractice.py
+  263  cd ..
+  264  ls
+  265  cd Fintech_Bootcamp
+  266  cd Class_One
+  267  ls
+  268  cd 03_The_401k_Shuffle
+  269  python the_401k_shuffle.py
+  270  ls
+  271  cd Unsolved
+  272  ls
+  273  python the_401k_shuffle.py
+  274  python the_401k_shuffle.py
+  275  old_account_amounts = [2000, 8000, 3000, 2000]
+  276  python the_401k_shuffle.py
+  277  python the_401k_shuffle.py
+  278  python the_401k_shuffle.py
+  279  python the_401k_shuffle.py
+  280  python the_401k_shuffle.py
+  281  ls
+  282  python variables.py
+  283  python
+  284  cd
+  285  python
+  286  python percent_increase.py
+  287  python percent_increase.py
+  288  print(f"Apple's stock price increased by {percent_increase:.2f}%.")
+  289  python percent_increase.py
+  290  print(f"Apple's stock price increased by {percent_increase:.2f}%.")
+  291  conda activate dev
+  292  python variables.py
+  293  ls
+  294  cd
+  295  cd Desktop
+  296  conda activate dev
+  297  python variables.py
+  298  python activate dev
+  299  python variables.py
+  300  python variables.py
+  301  conda activate dev
+  302  python lists.py
+  303  conda activate dev
+  304  python manipulating_lists.py
+  305  python manipulating_lists.py
+  306  python manipulating_lists.py
+  307  python manipulating_lists.py
+  308  python manipulating_lists.py
+  309  python manipulating_lists.py
+  310  python manipulating_lists.py
+  311  python manipulating_lists.py
+  312  python manipulating_lists.py
+  313  python manipulating_lists.py
+  314  python manipulating_lists.py
+  315  conda activate dev
+  316  python3 dicts.py
+  317  conda activate dev
+  318  python dictionaries.py
+  319  conda activate dev
+  320  python dictionaries.py
+  321  python dictionaries.py
+  322  python dictionaries.py
+  323  python dictionaries.py
+  324  python dictionaries.py
+  325  python dictionaries.py
+  326  python dictionaries.py
+  327  python dictionaries.py
+  328  python dictionaries.py
+  329  python dictionaries.py
+  330  python dictionaries.py
+  331  python dictionaries.py
+  332  python dictionaries.py
+  333  python dictionaries.py
+  334  python dictionaries.py
+  335  conda activate dev
+  336  https://uwa.bootcampcontent.com/UWA-Bootcamp/UW-VIRT-FIN-PT-10-2022-U-B.git
+  337  cd existing_repo\ngit remote add origin https://uwa.bootcampcontent.com/UWA-Bootcamp/UW-VIRT-FIN-PT-10-2022-U-B.git\ngit branch -M main\ngit push -uf origin main\n
+  338  conda activate dev
+  339  cd existing_repo\ngit remote add origin https://uwa.bootcampcontent.com/UWA-Bootcamp/UW-VIRT-FIN-PT-10-2022-U-B.git\ngit branch -M main\ngit push -uf origin main\n
+  340  ls -al ~/.ssh
+  341  pbcopy
+  342  pbcopy <~/.ssh/id.rsa.pub
+  343  ls -al ~/.ssh
+  344  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  345  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  346  ls -al~/.ssh
+  347  ls –al ~/.ssh
+  348  ls -al ~/.ssh
+  349  pbcopy < ~/.ssh/id_rsa.pub
+  350  ssh –T git@github.com
+  351  ssh -T git@github.com
+  352  eval "$(ssh-agent -s)"
+  353  exec ssh-agent zsh
+  354  ~/.ssh/config
+  355  $ touch ~/.ssh/config
+  356   touch ~/.ssh/config
+  357  touch ~/.ssh/config
+  358  ssh-add
+  359  ssh –T git@github.com
+  360  ssh -T git@github.com
+  361  conda --version
+  362  conda update conda
+  363  conda udpate anaconda
+  364  conda update anaconda
+  365  conda create -n dev python=3.7 anaconda
+  366  conda init zsh
+  367  echo #{SHELL}
+  368  echo #{SHELL}
+  369  oython -m ipykernel install --user --name dev
+  370  python -m ipykernel install ---user --name dev
+  371  conda activate dev
+  372  echo #{SHELL}
+  373  echo
+  374  echo SHELL
+  375  echo {SHELL}
+  376  echo #{SHELL}
+  377  conda init zsh
+  378  python -m ipykernel install --user --name dev
+  379  conda install -c conda-forge nodejs
+  380  conda deactivate
+  381  cd Desktop
+  382  ls
+  383  ls
+  384  cd Applications
+  385  cd ..
+  386  ls
+  387  cd Documents
+  388  mkdir git
+  389  ls
+  390  cd git
+  391  git clone git@github.com:naomynaomy/desktop-tutorial.git
+  392  ls
+  393  cd desktop_tutorial
+  394  cd desktop-tutorial
+  395  touch sample.txt
+  396  ls
+  397  git add .
+  398  git commit -m "sample file created"
+  399  git push origin main
+  400  git checkout -b header
+  401  git add -A
+  402  git commit -m "Added text to text file"
+  403  git push origin header
+  404  git checkout master
+  405  git checkout main
+  406  git pull
+  407  python the_401k_shuffle.py
+  408  conda activate dev
+  409  python the_401k_shuffle.py
+  410  conda activate dec
+  411  conda activate dev
+  412  jupyter lab
+  413  conda deactivate
+  414  code .
+  415  code . 
+  416  conda activate dev
+  417  git clone git@uwa.bootcampcontent.com:UWA-Bootcamp/UW-VIRT-FIN-PT-10-2022-U-B.git
+  418  conda activate devc
+  419  conda activate dev
+  420  python conditional_statement.py
+  421  conda activate dev
+  422  python conditional_statement.py
+  423  conda activate dev
+  424   python functions.py
+  425  conda activate dev
+  426  python functions.py
+  427  ls
+  428  cd 03_Split_Second_Homebuying
+  429  l
+  430  ls
+  431  cd Unsolved
+  432  ls
+  433  python functions.py
+  434  python functions.py
+  435  python pathways_to_success_part_2.py
+  436  pwd
+  437  pwd
+  438  conda activate dev
+  439  cd Fintech_Online_Class
+  440  ls
+  441  cd Documents
+  442  cd Fintech Online Class
+  443  cs Fintech_Online_Class
+  444  cd Fintech_Online_Class
+  445  ls
+  446  FinTech Online Class
+  447  cd Fintech Online Class
+  448  cd FintechOnlineClass
+  449  pwd
+  450  conda activate dev
+  451  top_traders_2019 = {"january": "Karen", "february": "Harold", "march": "Sam"}
+  452  top_traders_2019 = {"january": "Karen", "february": "Harold", "march": "Sam"}
+  453  conda deactivate
+  454  python 3
+  455  conda activate dev
+  456  python 3
+  457  python3
+  458  pwd
+  459  ls
+  460  cd Desktop
+  461  pwd
+  462  ls
+  463  mkdir Fintech_Workspace
+  464  ls
+  465  cd Fintech_Workspace
+  466  ls
+  467  cd ~
+  468  cd ..
+  469  cd Desktop
+  470  ls
+  471  naomyvelasco
+  472  cd naomyvelasco
+  473  ls
+  474  cd Desktop
+  475  cd Fintech_Workspace
+  476  Python_Project
+  477  cd Python_Project
+  478  conda activate dev
+  479  python hello_python.py
+  480  code .
+  481  conda deactivate
+  482  cd Fintech_Workspace
+  483  ls
+  484  conda activate dev
+  485  ls
+  486  conda activate dev
+  487  python pathways_to_success_part_2.py
+  488  python pathways_to_success_part_2.py
+  489  python pathways_to_success_part_2.py
+  490  ls
+  491  conda activate dev
+  492  ls
+  493  conda activate dev
+  494  python pathways_to_success_part_2.py
+  495  ls
+  496  ls
+  497  ls
+  498  python 3
+  499  pthon3
+  500  python3
+  501  conadn act
+  502  conda activate dev
+  503  ls
+  504  cd data
+  505  conda activate dev
+  506  ls
+  507  cd data
+  508  ls
+  509  conda activate dev
+  510  pip -v
+  511  pip -V
+  512  pip freeze
+  513  pip install fire
+  514  pip install questionary
+  515  conda activate dev
+  516  pwd
+  517  cd..
+  518  cd ..
+  519  pwd
+  520  conda activate dev
+  521  pip install fire
+  522  pip freeze
+  523  conda install fire -c conda-forge
+  524  import fire
+  525  fire
+  526  conda activate dev
+  527  install fire
+  528  install fire
+  529  pip install fire
+  530  conda install fire -c conda-forge
+  531  python cli.py
+  532  conda activate dev
+  533  conda list -fire
+  534  clear
+  535  conda list
+  536  conda activate dev
+  537  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Fintech_Workspace/FinTech Online Class/Week 2/Misc - Practice/cli.py"
+  538  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Fintech_Workspace/FinTech Online Class/Week 2/Misc - Practice/cli.py"
+  539  conda activate dev
+  540  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Fintech_Workspace/FinTech Online Class/Week 2/Misc - Practice/cli.py"
+  541  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Fintech_Workspace/FinTech Online Class/Week 1/Practice/test1/test2.py"
+  542  conda activate dev
+  543  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Fintech_Workspace/FinTech Online Class/Week 1/Practice/test1/test2.py"
+  544  conda activate dev
+  545  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Fintech_Workspace/FinTech Online Class/Week 1/Practice/test1/test.py"
+  546  conda activate dev
+  547  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Fintech_Workspace/FinTech Online Class/Week 1/Practice/test1/test.py"
+  548  conda activate dev
+  549  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Fintech_Workspace/FinTech Online Class/Week 1/Practice/test1/test.py"
+  550  conda activate dev
+  551  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Fintech_Workspace/FinTech Online Class/Week 1/Practice/test1/test.py"
+  552  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Fintech_Workspace/FinTech Online Class/Week 1/Practice/test1/test.py"
+  553  conda activate dev
+  554  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Fintech_Workspace/FinTech Online Class/Week 1/Practice/test1/test.py"
+  555  conda activate dev
+  556  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Fintech_Workspace/FinTech Online Class/Week 1/Practice/test1/test.py"
+  557  conda activate dev
+  558  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Fintech_Workspace/FinTech Online Class/Week 1/Practice/test1/test.py"
+  559  conda activate dev
+  560  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Fintech_Workspace/FinTech Online Class/Week 1/Practice/test1/test.py"
+  561  conda activate dev
+  562  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Fintech_Workspace/FinTech Online Class/Week 1/Practice/test1/test.py"
+  563  conda activate dev
+  564  clear
+  565  pwd
+  566  ls
+  567  cd Desktop
+  568  pwd
+  569  ls
+  570  cd Fintech_Workspace
+  571  ls
+  572  cd FinTech\ Online\ Class
+  573  ls
+  574  cd Week\ 1
+  575  ls
+  576  cd ..
+  577  ls
+  578  cd ..
+  579  cd ..
+  580  cd Fintech_Workspace
+  581  ls
+  582  cd FinTech\ Online\ Class
+  583  ls
+  584  cd Week\ 1
+  585  ls
+  586  cd Practice
+  587  ls
+  588  cd test1
+  589  ls
+  590  cd Resources
+  591  ls
+  592  cd __pycache__
+  593  ls
+  594  cd ..
+  595  ls
+  596  cd ..
+  597  ls
+  598  clear
+  599  ls
+  600  python test.py
+  601  python test.py
+  602  ls
+  603  python test.py
+  604  clear
+  605  conda activate dev
+  606  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Fintech_Workspace/FinTech Online Class/Week 1/Practice/test1/test.py"
+  607  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py"
+  608  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py"
+  609  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py"
+  610  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py"
+  611  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py"
+  612  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py"
+  613  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py"
+  614  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py"
+  615  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py"
+  616  conda activate dev
+  617  clear
+  618  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py"
+  619  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py"
+  620  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py"
+  621  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py"
+  622  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py"
+  623  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py"
+  624  conda deactivate
+  625  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py"
+  626  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  627  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  628  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  629  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  630  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  631  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  632  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  633  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  634  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  635  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  636  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  637  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  638  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  639  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  640  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  641  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  642  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  643  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  644  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  645  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  646  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  647  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  648  python 3
+  649  python3
+  650  conda activate dev
+  651  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  652  pwd
+  653  ls
+  654  cd Week 2
+  655  ls
+  656  Week\ 2
+  657  ls
+  658  cd Week 2
+  659  pwd
+  660  cd
+  661  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  662  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  663  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  664  pwd
+  665  ls
+  666  cd Desktop
+  667  cd Repositories
+  668  cd Week
+  669  ls
+  670  cd fintech_activities
+  671  ls
+  672  cd Week 2
+  673  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  674  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  675  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  676  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  677  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  678  conda activate dev
+  679  pwd
+  680  conda activate dev
+  681  pwd
+  682  conda activate dev
+  683  pip install questionnary
+  684  pip install questionary
+  685  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  686  conda activate dev
+  687  clear
+  688  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  689  ls
+  690  Module 2
+  691  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  692  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  693  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  694  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  695  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  696  pwd
+  697  ls
+  698  cd Module*
+  699  ls
+  700  cd 02_Loan*
+  701  ls
+  702  cd Solved
+  703  ls
+  704  python app/py
+  705  python app.py
+  706  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  707  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  708  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  709  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  710  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  711  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  712  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  713  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  714  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  715  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  716  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  717  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  718  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  719  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  720  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  721  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  722  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  723  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  724  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  725  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  726  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  727  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  728  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  729  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  730  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  731  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  732  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  733  conda activate dev
+  734  app.py
+  735  python app.py
+  736  conda activate dev
+  737  python app.py
+  738  pwd
+  739   /usr/bin/env /usr/local/bin/python3 /Users/naomyvelasco/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50865 -- /Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week\ 2/Module\ 2\ 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  740  conda activate dev
+  741  python app.py
+  742  conda activate dev
+  743  python app.py
+  744  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  745  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  746  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  747  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  748  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  749  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  750  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  751  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  752  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  753  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  754  pwd
+  755  ls
+  756  02_*
+  757  cd 02_*
+  758  ls
+  759  cd Unsolved
+  760  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  761  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 1-2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  762  conda activate dev
+  763  conda activate dev
+  764  /usr/local/bin/python3 "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 3-4/cli.py"
+  765  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 3-4/cli.py"
+  766  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 3-4/cli.py"
+  767  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 3-4/cli.py"
+  768  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 3-4/cli.py"
+  769  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 3-4/cli.py"
+  770  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 3-4/cli.py"
+  771  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 3-4/cli.py"
+  772  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 3-4/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  773  conda activate dev
+  774  ls
+  775  cd..
+  776  cd ..
+  777  ls
+  778  cd Mod*4
+  779  ls
+  780  cd 01*
+  781  ls
+  782  cd Unsolved
+  783  python app.py
+  784  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 3-4/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  785  conda activate dev
+  786  conda activate dev
+  787  ls
+  788  cd Solved
+  789  python app.py
+  790  python app.py
+  791  conda activate dev
+  792  conda activate dev
+  793  python app.py
+  794  conda activate dev
+  795  python dialog.py
+  796  cd ..
+  797  ls
+  798  cd ..
+  799  ls
+  800  cd 02*
+  801  ls
+  802  cd Unsolved
+  803  python app.py
+  804  python app.py --credit_score=750 --debt=5000 --income=20000
+  805  python app.py
+  806  python app.py
+  807  conda activate dev
+  808  python app.py
+  809  python app.py
+  810  python app.py --credit_score=750
+  811  clear
+  812  python app.py --credit_score=750
+  813  python app.py --credit_score=750
+  814  python app.py --credit_score=750, --debt=5000, --income=20000
+  815  python app.py --credit_score=750 --debt=5000 --income=20000
+  816  conda activate dev
+  817  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 3-4/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  818  cd
+  819  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 3-4/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  820  python app.py
+  821  pwd
+  822  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 3-4/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  823  pwd
+  824  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 3-4/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  825  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 3-4/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  826  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python "/Users/naomyvelasco/Desktop/Repositories/fintech_activities/Week 2/Module 2 3-4/01_Adding_Fire_to_the_Loan_Qualifier_App/Practice Files/dialog.py"
+  827  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python
+  828  conda activate dev
+  829  conda activate dev
+  830  python app.py
+  831  conda activate dev
+  832  cd
+  833  ls
+  834  desktop
+  835  cd Desktop
+  836  ls
+  837  cd Re*
+  838  ls
+  839  cd finte*
+  840  ls
+  841  cd Week*
+  842  ls
+  843  cd Wee*
+  844  cd Wee*2
+  845  ls
+  846  cd Mod*4
+  847  python cli.py
+  848  ls
+  849  cd 01*
+  850  ls
+  851  cd Uns*
+  852  python app.py
+  853  clear
+  854  git config --global user.name <naomy velasco>
+  855  git config --list
+  856  ls
+  857  cd ..
+  858  cd ..
+  859  cd ..
+  860  cd ..
+  861  cd..
+  862  cd ..
+  863  cd ..
+  864  cd ..
+  865  git config --global user.name <naomyvelasco>
+  866  git config --list
+  867  git clone <https://github.com/naomynaomy/Test_repo.git>
+  868  git clone git@github.com:naomynaomy/Test_repo.git
+  869  ls
+  870  cd Te*
+  871  ls
+  872  ls
+  873  cd ..
+  874  ls
+  875  git status
+  876  ls
+  877  cd Test*
+  878  git status
+  879  git add README.md
+  880  git status
+  881  pwd
+  882  touch practicing.txt
+  883  ls
+  884  git status
+  885  git add practicing.txt
+  886  git status
+  887  git commit -m "Edited readme and added new text file"
+  888  git status
+  889  git push
+  890  conda activate dev
+  891  jupyter lab
+  892  conda activate dev
+  893  python app.py
+  894  conda activate dev
+  895  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  896  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  897  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  898  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  899  python app.py
+  900  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  901  pwd
+  902  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  903  ls
+  904  cd Starter_Code
+  905  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  906  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  907  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  908  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  909  ls
+  910  cd loan*
+  911  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  912  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  913  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  914  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  915  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  916  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  917  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  918  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  919  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  920  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  921  ls
+  922  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  923  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  924  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  925  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  926  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  927  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  928  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  929  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  930  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  931  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  932  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  933  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  934  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  935  ls
+  936  data
+  937  cd data
+  938  ls
+  939  cd ..
+  940  ls
+  941  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  942  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  943  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  944  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  945  python app.py
+  946  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  947  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  948  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  949  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  950  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  951  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  952  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  953  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  954  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  955  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  956  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  957  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  958  ls
+  959  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  960  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  961  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  962  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  963  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  964  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  965  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  966  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  967  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  968  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  969  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  970  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  971  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  972  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  973  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  974  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  975  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  976  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  977  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  978  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  979  clear
+  980  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+  981  conda activate dev
+  982  git clone https://github.com/naomynaomy/module2challenge.git
+  983  history 50 > terminal_history.txt
+  984  pwd
+  985  ls
+  986  cd Rep*
+  987  cd Desktop
+  988  cd Rep*
+  989  ls
+  990  cd module2*
+  991  history 50> terminal_history.txt
+  992  history 50 > terminal_history.txt
+  993  histsize = 50 > terminal_history.txt
+  994  history = 50 > terminal_history.txt
+  995  history HISTSIZE=50 > terminal_history.txt
+  996  history > terminal_history.txt
+  997  history 50 = terminal_history.txt
+  998  history 50 > terminal_history.txt
+  999  history > terminal_history.txt
+ 1000  history 50 > terminal_history.txt
+ 1001  conda activate dev
+ 1002  conda activate dev
+ 1003  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+ 1004  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+ 1005  pwd
+ 1006  ls
+ 1007  cd Star*
+ 1008  ls
+ 1009  cd loan*
+ 1010  ls
+ 1011  /Users/naomyvelasco/opt/anaconda3/envs/dev/bin/python /Users/naomyvelasco/Desktop/Repositories/module2challenge/Starter_Code/loan_qualifier_app/app.py
+ 1012  conda activate dev
+ 1013  history 50 > terminal_history.txt
+ 1014  pwd
+ 1015  ls
+ 1016  cd Desktop
+ 1017  ls
+ 1018  cd REpo*
+ 1019  cd Repo*
+ 1020  ls
+ 1021  cd module*
+ 1022  ls
+ 1023  cd Start*
+ 1024  ls
